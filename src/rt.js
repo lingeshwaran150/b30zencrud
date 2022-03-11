@@ -1,0 +1,48 @@
+[
+{
+  id:"100",
+  name:"APPLE-iPhone 13 Models",
+  poster:"",
+  model:"iPhone 13",
+  price:84900,
+  storage:"64/128/256GB",
+  battery:"3095 mAh",
+  camera:"12MP+12 MP, f/1.6, 26mm (wide), 1.7µm, dual pixel PDAF, sensor-shift OIS",
+  rating:7.8,
+},
+{
+  id:"101",
+name:"APPLE-iPhone 13 Models",
+poster:"",
+model:"iPhone-13-PRO",
+price:129000,
+storage:"64/128/256GB",
+battery:"3095 mAh",
+camera:"Pro 12MP camera system: Telephoto, Wide and Ultra Wide cameras",
+rating:8.5,
+},
+
+{
+  id:"102",
+name:"APPLE-iPhone 13 Models",
+poster:"",
+model:"iPhone-13-PRO-MAX",
+price: 139000,
+storage:"64/128/256GB",
+battery:"4352 mAh",
+camera:"Pro 12MP camera system: Telephoto, Wide and Ultra Wide cameras",
+rating:9,
+},
+{
+  id:"103",
+name:"APPLE-iPhone 13 Models",
+poster:"",
+model:"iPhone 13 MINI",
+price:70000,
+storage:"64/128/256GB",
+battery:"3095 mAh",
+camera:"Dual 12MP camera system: Wide and Ultra Wide cameras",
+rating:7,
+},
+
+]
